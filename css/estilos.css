@@ -1,9 +1,11 @@
+
 body{
-    padding: 30px;
+    background-color: navy;
 }
 
 #menu{
     background-color: #F2E7AE;   
+    margin: 5px;
 }
 
 .botonesR{
@@ -56,6 +58,7 @@ li a:hover {
 
 #banner{
     height: 410px;
+    width: 100%;
 }
 
 .bloque{
