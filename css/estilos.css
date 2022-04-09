@@ -1,5 +1,13 @@
+body{
+    padding: 30px;
+}
+
 #menu{
     background-color: #F2E7AE;   
+}
+
+.botonesR{
+    float: right;
 }
 
 ul {
@@ -34,10 +42,6 @@ li a:hover {
     background-color: #ffaa00;
 }
 
-.botonesR{
-    float:right
-}
-
 #tituloPag{
     text-align: center;
     font-size: 25px;
@@ -45,11 +49,15 @@ li a:hover {
 
 #contenido{
     display: grid;
-    grid-template-columns: 54% 54%;
+    grid-template-columns: 50% 50%;
     background-color: #F2E7AE;
     border: solid;
 }
 
 #banner{
-    height: 20%;
+    height: 410px;
+}
+
+.bloque{
+    padding: 15px;
 }
